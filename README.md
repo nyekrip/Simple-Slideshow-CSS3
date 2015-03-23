@@ -2,4 +2,4 @@
 Simple Slideshow with CSS3 keyframed animation
 
 ## Credit
-* http://www.nyekrip.com
+* http://www.nyekrip.com - Nyekrip - Web Tutorial Indonesia
